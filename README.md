@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+## DEVELOPED BY : PRAVEEN S
+## REG NO : 212222240078
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
